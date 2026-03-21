@@ -1,1 +1,2 @@
 - 2026-03-20: Initital commit, laravel/vite/postgres skeleton
+- 2026-03-21: Added routes, views, basic navigation and layouts.

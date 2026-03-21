@@ -1,3 +1,8 @@
+.*
+!.env.example
+!.gitignore
+!.gitattributes
+!.editorconfig
 *.log
 .DS_Store
 .env
